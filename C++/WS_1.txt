@@ -1,0 +1,4 @@
+Q_1. what's datatype?
+ans : range or set of value on which we can do operations.
+
+Q_2: 
